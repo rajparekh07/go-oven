@@ -16,3 +16,17 @@ Flags:
    
   -ip string
     The IP Address to be passed as an argument.`
+
+## Build your own
+
+Prerequisite: 
+- Have go 1.18
+
+- go get
+- go build
+
+## Roadmap
+
+- Directly have ability to start AWS instance
+- Reboot AWS instances from CLI
+- GUI
